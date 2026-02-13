@@ -1,0 +1,15 @@
+# Sistema Taller Textil - Bartolome
+
+Base de datos diseñada para gestionar:
+
+- Control de inventario de telas
+- Gestión de pedidos con estados
+- Asignación de producción a costureras
+- Registro de ingresos y egresos
+- Generación de reportes semanales de ganancias
+
+El proyecto incluye:
+
+- Modelo Entidad-Relación (DER)
+- Script SQL idempotente para SQL Server
+- Integridad referencial mediante claves foráneas
